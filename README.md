@@ -11,12 +11,11 @@ Proficient in learning and applying Infrastructure as Code (IaC) tools like Terr
 A highly motivated and detail-oriented individual seeking a Cloud Engineer position to leverage foundational knowledge of cloud platforms like AWS, Azure, and Google Cloud. Eager to apply skills in Infrastructure as Code (IaC), automation, and cloud security while gaining hands-on experience in designing and managing scalable, reliable cloud infrastructure. Committed to continuous learning and contributing to the success of a dynamic team by optimizing cloud solutions for performance and cost-efficiency.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Creating a Windows VM on Microsoft Azure    | <a href="https://portal.azure.com/#@adewaletosinmartinshotmail.onmicrosoft.com/resource/subscriptions/9682ba13-db29-43d7-8de1-68432e53e062/resourceGroups/TMartResource/providers/Microsoft.Compute/virtualMachines/WinServerVM/overview)">Windows Virtual Machine</a>|
+| Creating an Ubuntu VM on Microsoft Azure| <a href="https://portal.azure.com/#@adewaletosinmartinshotmail.onmicrosoft.com/resource/subscriptions/9682ba13-db29-43d7-8de1-68432e53e062/resourceGroups/LinuxServR/providers/Microsoft.Compute/virtualMachines/UbuntuServerVM/overview">Ubuntu Virtual Machine</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
